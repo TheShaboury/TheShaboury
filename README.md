@@ -1,16 +1,24 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheShaboury.TheShaboury" />
 
-<!--
-**TheShaboury/TheShaboury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ahmed+ElShaboury!+✨;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">👨‍💻 About Me</h3>
+<h4 align="center">I’m a Mechatronics Engineering student who is passionate about **Robotics**🤖 and **Embedded Software**💻</h4>
+  
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 🎓 Undergraduate: 2nd year **Mechatronics Engineering** student at **Mansoura University**
+ 
+ 💫 Grade: CGPA **3.98 / 4.0** (Rank: 3rd)
+
+ 🌱 Currently learning about **Microcontrollers**, **Embedded Software** and **Autonomous Systems**
+
+ ✨ Favourite quote **El Psy Kongroo⌛**
+
+ </div>
+
+ 
