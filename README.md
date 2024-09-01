@@ -30,3 +30,12 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,ubuntu,linux,vscode,clion,github,figma,git,godot" />
+    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,html,c,cpp,java,n,mysql,vim" /><br>
+</div>
+
