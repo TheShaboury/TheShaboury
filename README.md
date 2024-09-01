@@ -17,7 +17,7 @@
 
  🌱 Currently learning about **Microcontrollers**, **Embedded Software** and **Autonomous Systems**
 
- ✨ Favourite quote **El Psy Kongroo⌛**
+ ✨ Favourite quote: **El Psy Kongroo⌛**
 
  </div>
 
