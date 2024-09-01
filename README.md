@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">👨‍💻 About Me</h3>
-<h4 align="center">I’m a Mechatronics Engineering student who is passionate about **Robotics**🤖 and **Embedded Software**💻</h4>
+<h4 align="center">I’m a Mechatronics Engineering student who is passionate about Robotics🤖 and Embedded Software💻</h4>
   
 <br/>
 
