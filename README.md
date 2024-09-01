@@ -36,6 +36,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,ubuntu,linux,vscode,clion,github,figma,git,godot" />
-    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,html,c,cpp,java,n,mysql,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,html,c,cpp,java,mysql,vim" /><br>
 </div>
 
