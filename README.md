@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheShaboury.TheShaboury" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ahmed+ElShaboury!+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hey+There!+👋;+I'm+Ahmed+ElShaboury!+✨;" />
 </h1>
 
 <h3 align="center">👨‍💻 About Me</h3>
@@ -65,7 +65,7 @@
 <br/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+🙌;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+🙌;" />
 </div>
 
 <br/>
