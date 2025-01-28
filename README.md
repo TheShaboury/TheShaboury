@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,ubuntu,linux,vscode,clion,github,figma,git,godot" />
-    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,html,c,cpp,java,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,linux,vscode,github,git,godot" />
+    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,c,cpp,vim" /><br>
 </div>
 
 <div align="center">
