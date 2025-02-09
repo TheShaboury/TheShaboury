@@ -5,11 +5,11 @@
 </h1>
 
 <h3 align="left">👨‍💻 About Me</h3>
-<h4 align="center">I’m a Mechatronics Engineering student who is passionate about Robotics🤖 and Embedded Software💻</h4>
+<h4 align="left">I’m a Mechatronics Engineering student who is passionate about Robotics🤖 and Embedded Software💻</h4>
   
 <br/>
 
-<div align="center">
+<div align="left">
  
  🎓 Undergraduate: 2nd year **Mechatronics Engineering** student at **Mansoura University**
  
@@ -19,7 +19,7 @@
 
  </div>
 
- <div align="center"> 
+ <div align="left"> 
   <a href="mailto:ahmedshaboury000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
