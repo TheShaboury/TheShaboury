@@ -9,7 +9,7 @@
   
 <br/>
 
-<div align="left">
+<div align="center">
  
  🎓 Undergraduate: 2nd year **Mechatronics Engineering** student at **Mansoura University**
  
