@@ -15,10 +15,11 @@
  
  💫 Grade: CGPA **3.98 / 4.0** (Rank: 3rd)
 
- 🌱 Currently learning about **Robotics**, **Embedded Software** and **Data Science & Ai**
+ 🌱 Currently learning & passionate about **Robotics**, **Embedded Software** and **Data Science & Ai**
 
  </div>
 
+<h3 align="center">🔗 Contact Me</h3>
  <div align="center"> 
   <a href="mailto:ahmedshaboury000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
