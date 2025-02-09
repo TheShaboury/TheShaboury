@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;" />
 </h1>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 <h4 align="center">I’m a Mechatronics Engineering student who is passionate about Robotics🤖 and Embedded Software💻</h4>
   
 <br/>
