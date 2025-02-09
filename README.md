@@ -15,9 +15,7 @@
  
  💫 Grade: CGPA **3.98 / 4.0** (Rank: 3rd)
 
- 🌱 Currently learning about **Microcontrollers**, **Embedded Software** and **Autonomous Systems**
-
- ✨ Favourite quote: **El Psy Kongroo⌛**
+ 🌱 Currently learning about **Robotics**, **Embedded Software** and **Data Science & Ai**
 
  </div>
 
