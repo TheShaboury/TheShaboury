@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🎓 Undergraduate: 2nd year **Mechatronics Engineering** student at **Mansoura University**
+ 🎓 Undergraduate: Senior **Mechatronics Engineering** student at **Mansoura University**
  
  💫 Grade: CGPA **3.98 / 4.0** (Rank: 3rd)
 
