@@ -1,42 +1,93 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheShaboury.TheShaboury" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;+AI+%7C+Robotics+%7C+Embedded+Systems" />
 </h1>
 
-<h3 align="center">👨‍💻 About Me</h3>
-<h4 align="center">I’m a Mechatronics Engineering student who is passionate about Robotics🤖 and Embedded Software💻</h4>
-  
+<h3 align="center">
+  Mechatronics Engineering Graduate | AI & Robotics
+</h3>
+
+<p align="center">
+  I'm interested in building intelligent systems, with a focus on
+  <b>AI/ML</b>, <b>robotics</b>, <b>autonomous systems</b> and <b>embedded software</b>.
+</p>
+
 <br/>
 
+<h2 align="center">👨‍💻 About Me</h2>
+
 <div align="center">
- 
- 🎓 Undergraduate: Senior **Mechatronics Engineering** student at **Mansoura University**
- 
- 💫 Grade: CGPA **3.98 / 4.0** (Rank: 3rd)
 
- 🌱 Currently learning & passionate about **Robotics**, **Embedded Software** and **Data Science & Ai**
+🎓 Mechatronics Engineering Graduate — **Mansoura University**
 
- </div>
+🏆 **CGPA: 3.96 / 4.0**
 
-<h3 align="center">🔗 Contact Me</h3>
- <div align="center"> 
-  <a href="mailto:ahmedshaboury000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/theshaboury" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+🧠 Currently diving deeper into **Machine Learning & Deep Learning**
+
+🤖 Interested in **AI for Robotics, Autonomous Systems & Edge AI**
+
+💻 Strong focus on **C++, Python, Linux and ROS2**
+
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<h2 align="center">🛠️ Technologies</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,linux,vscode,github,git,godot" />
-    <img src="https://skillicons.dev/icons?i=ros,py,bash,raspberrypi,matlab,c,cpp,vim,docker" /><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,tensorflow,pytorch" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab,git,docker,cmake" />
+
 </div>
+
+<br/>
+
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+**Valeo — Software Engineering Intern**
+
+C++ software quality and validation for automotive systems, including GTest, coverage analysis, CAN/CANoe, diagnostics and build/test debugging.
+
+**STMicroelectronics — System Programming in Linux**
+
+C/C++ system programming, Linux internals, processes, memory, multithreading, sockets, embedded Linux, Yocto and RTOS.
+
+</div>
+
+<br/>
+
+<h2 align="center">🔬 Current Focus</h2>
+
+<div align="center">
+
+**Machine Learning • Deep Learning • Computer Vision • Reinforcement Learning • Edge AI • AI for Robotics**
+
+</div>
+
+<br/>
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
+
+<a href="mailto:ahmedshaboury000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://linkedin.com/in/theshaboury" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
