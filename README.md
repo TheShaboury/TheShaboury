@@ -53,7 +53,7 @@ Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image 
 **Programming & Systems**
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,kotlin,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,kotlin,bash,linux" />
 </p>
 
 C++, C, Python, Embedded C, Java, Kotlin, x86-64 Assembly, Linux, Operating Systems, Multithreading, Sockets, Computer Architecture.
@@ -61,7 +61,7 @@ C++, C, Python, Embedded C, Java, Kotlin, x86-64 Assembly, Linux, Operating Syst
 **Robotics & Embedded Systems**
 
 <p>
-<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab" />
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab,mujoco,ros,yocto" />
 </p>
 
 ROS 1/2, Nav2, SLAM Toolbox, Gazebo, CARLA, CoppeliaSim, MuJoCo, NVIDIA Isaac Sim/Lab.
@@ -71,7 +71,7 @@ STM32, AVR, FreeRTOS, Yocto, Embedded Linux, Jetson Nano, UART, SPI, I2C, CAN.
 **Development & Engineering Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,visualstudio,capl,jenkins" />
 </p>
 
 Git, GitHub, Docker, CMake, MATLAB/Simulink, Stateflow, GTest, CANoe, CAPL, UDS, Static Analysis.
