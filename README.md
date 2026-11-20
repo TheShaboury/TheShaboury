@@ -48,15 +48,11 @@ Interested in understanding and building intelligent systems, from machine learn
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image Processing, OpenCV, Stable-Baselines3, CleanRL.
-
 **Programming & Systems**
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,kotlin,bash,linux" />
 </p>
-
-C++, C, Python, Embedded C, Java, Kotlin, x86-64 Assembly, Linux, Operating Systems, Multithreading, Sockets, Computer Architecture.
 
 **Robotics & Embedded Systems**
 
@@ -64,17 +60,11 @@ C++, C, Python, Embedded C, Java, Kotlin, x86-64 Assembly, Linux, Operating Syst
 <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab,ros,yocto" />
 </p>
 
-ROS 1/2, Nav2, SLAM Toolbox, Gazebo, CARLA, CoppeliaSim, MuJoCo, NVIDIA Isaac Sim/Lab.
-
-STM32, AVR, FreeRTOS, Yocto, Embedded Linux, Jetson Nano, UART, SPI, I2C, CAN.
-
 **Development & Engineering Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,visualstudio,jenkins" />
 </p>
-
-Git, GitHub, Docker, CMake, MATLAB/Simulink, Stateflow, GTest, CANoe, CAPL, UDS, Static Analysis.
 
 <h2>📚 Currently Exploring</h2>
 
