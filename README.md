@@ -1,121 +1,156 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheShaboury.TheShaboury" />
+ <div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;+AI+%7C+Robotics+%7C+Embedded+Systems" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;+AI+%7C+Robotics+%7C+Systems" />
 
-<h3 align="center">
-  Mechatronics Engineering Graduate | AI & Robotics
-</h3>
+<h3>Mechatronics Engineering Graduate | AI & Robotics</h3>
 
-<p align="center">
-  I'm interested in building intelligent systems, with a focus on
-  <b>AI/ML</b>, <b>robotics</b>, <b>autonomous systems</b> and <b>embedded software</b>.
+Interested in understanding and building intelligent systems, from machine learning algorithms to autonomous agents interacting with the physical world.
+
+</div>
+
+<br/>
+
+<img align="right" width="170"
+     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF2ZHllbTdwczlzdTBuYnpuc2x1cjM2NnkyYmtydHJjcHZzdmUxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gmdKBCklQ7ElxAN7oH/giphy.gif"
+     alt="Harry Potter illustration"
+     style="margin-top: px;" />
+
+<h2>👨‍💻 About Me</h2>
+
+- 🎓 Mechatronics Engineering graduate from **Mansoura University**.
+- 🏆 **3.90 / 4.00 CGPA** | Excellent with Honors | Top 8 in Class.
+- 🧠 Interested in **AI research, Machine Learning, and intelligent autonomous systems**.
+- 💻 Background in **C++, Python, Linux, embedded systems, and robotics**.
+- 🔍 Enjoy exploring how things work, from low-level systems to learning algorithms.
+
+<br clear="right"/>
+
+<h2>💼 Experience</h2>
+
+**Valeo — Embedded Software Engineer**
+
+- Contributed to C++ software quality and validation for a BMW Smart Parking System.
+- Implemented Google Test (GTest) unit tests, achieving over 95% line and branch coverage.
+- Developed CAPL scripts and performed ECU communication validation using CANoe across CAN and Ethernet.
+- Worked with static analysis, configuration scripts, and build/test debugging.
+
+**STMicroelectronics — Linux System Programmer**
+
+- Practiced C/C++ system programming, including filesystem operations, process control, multithreading, and socket-based communication.
+- Built and configured minimal Linux distributions using Yocto.
+- Explored embedded Linux, real-time systems, and low-level software development.
+
+<h2>🛠️ Technologies & Tools</h2>
+
+**AI & Machine Learning**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-<br/>
+Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image Processing, OpenCV, Stable-Baselines3, CleanRL.
 
-<h2 align="center">👨‍💻 About Me</h2>
+**Programming & Systems**
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,kotlin,bash" />
+</p>
 
-🎓 Mechatronics Engineering Graduate — **Mansoura University**
+C++, C, Python, Embedded C, Java, Kotlin, x86-64 Assembly, Linux, Operating Systems, Multithreading, Sockets, Computer Architecture.
 
-🏆 **CGPA: 3.96 / 4.0**
+**Robotics & Embedded Systems**
 
-🧠 Currently diving deeper into **Machine Learning & Deep Learning**
+<p>
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab" />
+</p>
 
-🤖 Interested in **AI for Robotics, Autonomous Systems & Edge AI**
+ROS 1/2, Nav2, SLAM Toolbox, Gazebo, CARLA, CoppeliaSim, MuJoCo, NVIDIA Isaac Sim/Lab.
 
-💻 Strong focus on **C++, Python, Linux and ROS2**
+STM32, AVR, FreeRTOS, Yocto, Embedded Linux, Jetson Nano, UART, SPI, I2C, CAN.
 
-</div>
+**Development & Engineering Tools**
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,visualstudio" />
+</p>
 
-<h2 align="center">🛠️ Technologies</h2>
+Git, GitHub, Docker, CMake, MATLAB/Simulink, Stateflow, GTest, CANoe, CAPL, UDS, Static Analysis.
 
-<div align="center">
+<h2>📚 Currently Exploring</h2>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,tensorflow,pytorch" />
+- **Machine Learning & Deep Learning:** Strengthening mathematical foundations and understanding learning algorithms, architectures, and optimization.
+- **Reinforcement Learning:** Policy optimization, PPO, and learning-based approaches to robotic control.
+- **Multimodal AI:** Vision-language models, visual representations, and multimodal learning.
+- **AI Systems:** GPU computing, CUDA, efficient inference, and the intersection of machine learning and systems programming.
+- **Low-Level Systems:** Linux internals, computer architecture, memory management, and systems programming.
 
-<br/><br/>
+<h2>🔬 Research Interests</h2>
 
-<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab,git,docker,cmake" />
+- **Robust AI:** Improving the reliability of vision and vision-language models under visual distractions and distribution shifts.
+- **Embodied AI:** Learning intelligent behaviors through interaction, reinforcement learning, and simulation.
+- **Vision-Language-Action Models:** Connecting visual understanding, reasoning, and physical actions.
+- **Autonomous Systems:** Reliable perception, pedestrian behavior prediction, and decision-making.
+- **AI Security & Reliability:** Adversarial robustness, deepfake detection, and protecting visual content against AI manipulation.
+- **AI & Systems:** Efficient machine learning, GPU computing, and the intersection of AI algorithms and low-level software.
 
-</div>
+<h2>🏆 Achievements</h2>
 
-<br/>
+- 🥉 **Huawei ICT Competition 2025–26:** Egypt National Bronze Medal, Cloud Track.
+- 🏎️ **F1TENTH:** 1st locally and 11th globally.
+- 🎓 **Academic:** Top 8 in class, Excellent with Honors.
 
-<h2 align="center">💼 Experience</h2>
-
-<div align="center">
-
-**Valeo — Software Engineering Intern**
-
-C++ software quality and validation for automotive systems, including GTest, coverage analysis, CAN/CANoe, diagnostics and build/test debugging.
-
-**STMicroelectronics — System Programming in Linux**
-
-C/C++ system programming, Linux internals, processes, memory, multithreading, sockets, embedded Linux, Yocto and RTOS.
-
-</div>
-
-<br/>
-
-<h2 align="center">🔬 Current Focus</h2>
-
-<div align="center">
-
-**Machine Learning • Deep Learning • Computer Vision • Reinforcement Learning • Edge AI • AI for Robotics**
-
-</div>
-
-<br/>
-
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">🔗 Find Me Around the Web</h2>
 
 <div align="center">
 
-<a href="mailto:ahmedshaboury000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="https://theshaboury.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/TheShaboury" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/theshaboury" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:ahmedshaboury000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheShaboury/TheShaboury/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
+
+<h2>🐍 My Contributions</h2>
+
+<img alt="Snake animation" src="https://raw.githubusercontent.com/TheShaboury/TheShaboury/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=TheShaboury&theme=react" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TheShaboury&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShaboury&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h2 align="center">⚡ GitHub Stats</h2>
 
-<br/><br/>
+<div align="center">
 
-<hr/>
+<img width="390" src="https://streak-stats.demolab.com?user=TheShaboury&theme=react" alt="GitHub Streak" />
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=TheShaboury&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 
 <br/>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+🙌;" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShaboury&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
 </div>
 
 <br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=60&duration=6000&lines=Thanks+for+visiting!+✌️;+Always+building+and+learning!+🚀" />
+
+</div>
