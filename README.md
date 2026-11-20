@@ -57,7 +57,7 @@ Interested in understanding and building intelligent systems, from machine learn
 **Robotics & Embedded Systems**
 
 <p>
-<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab" />
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,matlab,arm,stm,esp32" />
 </p>
 
 **Development & Engineering Tools**
