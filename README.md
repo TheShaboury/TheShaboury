@@ -45,7 +45,7 @@ Interested in understanding and building intelligent systems, from machine learn
 **AI & Machine Learning**
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image Processing, OpenCV, Stable-Baselines3, CleanRL.
