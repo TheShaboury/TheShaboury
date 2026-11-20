@@ -13,7 +13,7 @@ Interested in understanding and building intelligent systems, from machine learn
 <img align="right" width="170"
      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF2ZHllbTdwczlzdTBuYnpuc2x1cjM2NnkyYmtydHJjcHZzdmUxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gmdKBCklQ7ElxAN7oH/giphy.gif"
      alt="Harry Potter illustration"
-     style="margin-top: px;" />
+     style="margin-top: 40px;" />
 
 <h2>👨‍💻 About Me</h2>
 
