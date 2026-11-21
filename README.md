@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheShaboury.TheShaboury" />
  <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Ahmed+Shaboury!+✨;+AI+%7C+Robotics+%7C+Systems" />
